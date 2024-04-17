@@ -1,0 +1,122 @@
+{
+  "orderHistoryData": [
+    {
+      "date": "March 16, 2021",
+      "kilometers": "36",
+      "cashCollected": "4450",
+      "orderList": [
+        {
+          "orderId": "1567fd",
+          "deliveryTime": "13:50",
+          "orderType": "1"
+        },
+        {
+          "orderId": "1567fd",
+          "deliveryTime": "13:50",
+          "orderType": "2"
+        },
+        {
+          "orderId": "1567fd",
+          "deliveryTime": "13:50",
+          "orderType": "1"
+        },
+        {
+          "orderId": "1567fd",
+          "deliveryTime": "13:50",
+          "orderType": "2"
+        },
+        {
+          "orderId": "1567fd",
+          "deliveryTime": "13:50",
+          "orderType": "2"
+        },
+        {
+          "orderId": "1567fd",
+          "deliveryTime": "13:50",
+          "orderType": "1"
+        },
+        {
+          "orderId": "1567fd",
+          "deliveryTime": "13:50",
+          "orderType": "1"
+        },
+        {
+          "orderId": "1567fd",
+          "deliveryTime": "13:50",
+          "orderType": "1"
+        }
+      ]
+    }
+  ],
+  "transactionData": [
+    {
+      "transactionId": "12345",
+      "transactionDate": "March 12, 2021",
+      "transactionTime": "13:20",
+      "transactionAmount": "200"
+    },
+    {
+      "transactionId": "12345",
+      "transactionDate": "March 12, 2021",
+      "transactionTime": "13:20",
+      "transactionAmount": "200"
+    },
+    {
+      "transactionId": "12345",
+      "transactionDate": "March 12, 2021",
+      "transactionTime": "13:20",
+      "transactionAmount": "200"
+    },
+    {
+      "transactionId": "12345",
+      "transactionDate": "March 12, 2021",
+      "transactionTime": "13:20",
+      "transactionAmount": "200"
+    },
+    {
+      "transactionId": "12345",
+      "transactionDate": "March 12, 2021",
+      "transactionTime": "13:20",
+      "transactionAmount": "200"
+    },
+    {
+      "transactionId": "12345",
+      "transactionDate": "March 12, 2021",
+      "transactionTime": "13:20",
+      "transactionAmount": "200"
+    },
+    {
+      "transactionId": "12345",
+      "transactionDate": "March 12, 2021",
+      "transactionTime": "13:20",
+      "transactionAmount": "200"
+    }
+  ],
+  "shiftData": [
+    {
+      "shiftStartTime": "20:21",
+      "shiftEndTime": "22:21",
+      "shiftArea": "Johar Town"
+    },
+    {
+      "shiftStartTime": "20:21",
+      "shiftEndTime": "22:21",
+      "shiftArea": "Johar Town"
+    },
+    {
+      "shiftStartTime": "20:21",
+      "shiftEndTime": "22:21",
+      "shiftArea": "Johar Town"
+    },
+    {
+      "shiftStartTime": "20:21",
+      "shiftEndTime": "22:21",
+      "shiftArea": "Johar Town"
+    },
+    {
+      "shiftStartTime": "20:21",
+      "shiftEndTime": "22:21",
+      "shiftArea": "Johar Town"
+    }
+  ]
+}
