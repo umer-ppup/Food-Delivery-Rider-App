@@ -1,4 +1,4 @@
-# food_rider_app
+# Food Delivery Rider App
 
 A new Flutter application.
 
